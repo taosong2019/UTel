@@ -41,8 +41,6 @@ class BROSBIESModel(nn.Module):
             )
             self.tokenizer = LayoutLMTokenizer.from_pretrained(self.model_cfg.backbone)
             self.backbone = LayoutLMPlusModel.from_pretrained(self.model_cfg.backbone)
-            print("backbone have {} paramerters in total".format(sum(x.numel() for x in self.backbone.parameters())))
-        
         else:
             raise ValueError(
                 f"Not supported model: self.model_cfg.backbone={self.model_cfg.backbone}"
