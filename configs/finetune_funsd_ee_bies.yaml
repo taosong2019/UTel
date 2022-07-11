@@ -10,8 +10,8 @@ dataset: funsd
 task: ee
 
 model:
-  # backbone: utel-base-uncased
-  backbone: utel-large-uncased
+  backbone: utel-base-uncased
+  # backbone: utel-large-uncased
   # backbone: naver-clova-ocr/bros-base-uncased
   #backbone: microsoft/layoutlm-base-uncased
   head: bies
