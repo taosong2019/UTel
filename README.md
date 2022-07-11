@@ -10,8 +10,8 @@ Our codes is based on [BROS](https://github.com/clovaai/bros).
 
 | name               | # params                                                    |
 |---------:|-------------------------------------------------------------------------------------------------|
-| bros-base-uncased  |    110M | 
-| bros-large-uncased |    340M | 
+| [bros-base-uncased](https://drive.google.com/drive/folders/1gODxg4pkJJJgTt5RIHyfhZU2ofnPxDSa?usp=sharing)  |    110M | 
+| [bros-large-uncased](https://drive.google.com/drive/folders/1U4Vmpdj0C1pTZO1SH8p8oyrT7aP376Eo?usp=sharing) |    340M | 
 
 ## Fine-tuning on FUNSD
 
