@@ -8,11 +8,10 @@ Our codes is based on [BROS](https://github.com/clovaai/bros).
 
 ## Pre-trained models
 
-| name               | # params | Hugging Face - Models                                                                           |
+| name               | # params                                                    |
 |--------------------|---------:|-------------------------------------------------------------------------------------------------|
-| bros-base-uncased  |   < 110M | [naver-clova-ocr/bros-base-uncased](https://huggingface.co/naver-clova-ocr/bros-base-uncased)   |
-| bros-large-uncased |   < 340M | [naver-clova-ocr/bros-large-uncased](https://huggingface.co/naver-clova-ocr/bros-large-uncased) |
-
+| bros-base-uncased  |    110M | 
+| bros-large-uncased |    340M | 
 
 ## Fine-tuning on FUNSD
 
