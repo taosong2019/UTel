@@ -2,15 +2,9 @@
 
 ## Introduction
 
-BROS (BERT Relying On Spatiality) is a pre-trained language model focusing on text and layout for better key information extraction from documents.
-Given the OCR results of the document image, which are text and bounding box pairs, it can perform various key information extraction tasks, such as extracting an ordered item list from receipts.
-For more details, please refer to our paper:
+**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**<br> 
 
-**BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents**<br> 
-Teakgyu Hong, Donghyun Kim, Mingi Ji, Wonseok Hwang, Daehyun Nam, Sungrae Park<br>
-AAAI 2022 - Main Technical Track
-
-[[arXiv]](https://arxiv.org/abs/2108.04539)
+Our codes is based on [BROS](https://github.com/clovaai/bros).
 
 ## Pre-trained models
 
