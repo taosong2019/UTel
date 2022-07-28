@@ -4,7 +4,7 @@
 
 **Knowing Where and What: Unified Word Block Pretraining for Document Understanding**<br> 
 
-Our codes are based on [BROS](https://github.com/clovaai/bros).
+Our code is based on [BROS](https://github.com/clovaai/bros).
 
 ## Pre-trained models
 
