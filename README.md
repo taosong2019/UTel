@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**<br> 
+[**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**<br>](https://arxiv.org/pdf/2207.13979.pdf)
 
 Our code is based on [BROS](https://github.com/clovaai/bros).
 
